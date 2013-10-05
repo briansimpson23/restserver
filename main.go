@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/user/apiserver/api"
-	"github.com/user/apiserver/app"
+	"./api"
+	"./app"
 	"net/http"
 	"time"
 )

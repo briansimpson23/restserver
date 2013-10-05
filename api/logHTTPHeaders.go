@@ -1,8 +1,8 @@
 package api
 
 import (
+	"../app"
 	"fmt"
-	"github.com/user/apiserver/app"
 	"net/http"
 	"net/http/httputil"
 )

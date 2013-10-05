@@ -1,9 +1,9 @@
 package api
 
 import (
+	"../app"
 	"encoding/json"
 	"fmt"
-	"github.com/user/apiserver/app"
 	"net/http"
 	"strings"
 )
