@@ -1,8 +1,8 @@
 package api
 
 import (
-	"../app"
 	"fmt"
+	"github.com/briansimpson23/restserver/app"
 	"net/http"
 	"strings"
 )
