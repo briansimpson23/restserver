@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/435/apiserver/api
+END
+MemberSession.go
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/435/apiserver/api/MemberSession.go
+END
+MemberSessionGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/435/apiserver/api/MemberSessionGet.go
+END
+MemberGoalUpdate.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/371/apiserver/api/MemberGoalUpdate.go
+END
+logHTTPHeaders.go
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/125/apiserver/api/logHTTPHeaders.go
+END
+Router.go
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/399/apiserver/api/Router.go
+END
+MasterGoalsGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/400/apiserver/api/MasterGoalsGet.go
+END
+apiKey.go
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/350/apiserver/api/apiKey.go
+END
+MemberSessionTerminate.go
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/352/apiserver/api/MemberSessionTerminate.go
+END
+ReturnError.go
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/94/apiserver/api/ReturnError.go
+END
+MemberCreate.go
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/436/apiserver/api/MemberCreate.go
+END
+MemberGoalsGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/399/apiserver/api/MemberGoalsGet.go
+END
+MasterGoal.go
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/400/apiserver/api/MasterGoal.go
+END
+RunAPI.go
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/435/apiserver/api/RunAPI.go
+END
+MemberGoalCreate.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/399/apiserver/api/MemberGoalCreate.go
+END
+ErrorMessage.go
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/298/apiserver/api/ErrorMessage.go
+END
+MemberSessionCreate.go
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/435/apiserver/api/MemberSessionCreate.go
+END
+MemberAdsGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/352/apiserver/api/MemberAdsGet.go
+END
+MarketingSource.go
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/94/apiserver/api/MarketingSource.go
+END
+MarketingSourceGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/352/apiserver/api/MarketingSourceGet.go
+END
+MemberGoalAdsGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/352/apiserver/api/MemberGoalAdsGet.go
+END
+MemberGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/352/apiserver/api/MemberGet.go
+END
+Member.go
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/435/apiserver/api/Member.go
+END
+MemberGoalGet.go
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/436/apiserver/api/MemberGoalGet.go
+END
+MemberGoal.go
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/399/apiserver/api/MemberGoal.go
+END
+Advertisement.go
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/347/apiserver/api/Advertisement.go
+END
