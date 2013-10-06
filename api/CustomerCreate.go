@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func MemberCreate(r *http.Request) (int, []byte) {
+func CustomerCreate(r *http.Request) (int, []byte) {
 
 	//----------------------------------------------------------
 	// get the payload from the HTTP request and parse it
